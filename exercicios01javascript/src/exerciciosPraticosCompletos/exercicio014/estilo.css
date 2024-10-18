@@ -6,7 +6,16 @@ body{
 header{
     color: white;
     text-align: center;
+    align-items: center;
 }
+
+/* #foto{
+    align-items: center;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    background-color: none;
+} */
 
 section{
 background: whitesmoke;
@@ -17,8 +26,11 @@ margin: auto;
 box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.349);
 }
 
+
+
 div{
     text-align: center;
+    align-items: center;
     padding: 8px;
 }
 
@@ -26,3 +38,4 @@ footer{
     color: white;
     text-align: center;
 }
+
