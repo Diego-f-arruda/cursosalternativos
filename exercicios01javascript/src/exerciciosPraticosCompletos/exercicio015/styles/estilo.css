@@ -1,10 +1,11 @@
 body{
-    background: rgb(104, 104, 240);
+    background: linear-gradient(to right, #20e9c1, #3498db);
     font: normal 15pt Arial;    
 }
 
 header{
     color: white;
+    background-color: none;
     text-align: center;
 }
 
@@ -12,7 +13,8 @@ section{
 background: whitesmoke;
 border-radius: 10px;
 padding: 15px;
-width: 500px;
+width: 50%;
+height: 50%;
 margin: auto;
 box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.349);
 }
@@ -21,3 +23,4 @@ footer{
     color: white;
     text-align: center;
 }
+
